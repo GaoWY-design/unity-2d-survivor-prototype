@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 57cfe0295d7f04847b08007dd2eb0ad0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gF-walk_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1590
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7603c0d2ece68f489e7ee3807c32a96
+      internalID: 203533297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1590
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c0b24f6ded7e4f9a2762a089bf5f1
+      internalID: -1147775347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_2
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1590
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b474403b945046a5a9d26d9aef35d
+      internalID: -1640349434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_3
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1590
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864c9f9796b1bc74f840700d199159be
+      internalID: 1616780715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_4
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1590
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6f2f4552d9594ea04120ae4b692e6
+      internalID: 259060231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_5
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1590
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9676f9aba23c24d9498801e6410e35
+      internalID: -1293847434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_6
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 1590
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec03b5646b0337b4bb8079d72ff7e14c
+      internalID: -1042768563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_7
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1590
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b275d47a7aad31345945e58b8aa8d9d6
+      internalID: -1862474255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_8
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 1590
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe360b5a2bab94bb75a865daef6286
+      internalID: 1421497516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1087
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd985b71aab13fc42820542581f3376c
+      internalID: 399684804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_10
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1087
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c5fd3714758ff41ab7a257b0a2dd1a
+      internalID: -26503610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_11
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1087
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e7f25c11c1a064e9e0b6f34041a06b
+      internalID: -65904602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_12
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1087
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd22635576e0b9c4da96eb259aff6301
+      internalID: -244742436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_13
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1087
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe6017e5122491429183e601e32d880
+      internalID: -1507616544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_14
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1087
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eee387d837e73498f5efd7863a8aae
+      internalID: 1532945321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_15
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 1087
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ca9746d4ae5384da663a4ed64c3284
+      internalID: -261808182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_16
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1087
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272e3410188d1b84f9bd4c6c9c47dc32
+      internalID: -286877863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_17
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 1087
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a9516dee503e140a4e44c3bcb867c2
+      internalID: -975315221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 584
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2115e3d2293cd89438e05051c58ead54
+      internalID: -145517821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_19
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 584
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375bb2bd0fa4e23499de5b4abc7f3e12
+      internalID: 524238385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_20
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 584
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e6d1c771a03dc44a8e2c7c31b3346e
+      internalID: 1937393688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_21
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 584
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60fbb1219cc5374787e136ab5c39233
+      internalID: 1969729015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_22
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 584
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c69bef671cbc0b4db582be397305105
+      internalID: -145858719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_23
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 584
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f758c9ca99823408b4725f24001dea
+      internalID: 1327742600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_24
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 584
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a4037eee0c3784c9cf5486740b37a5
+      internalID: 1960940977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_25
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 584
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af086fc0b6fa5194dbbaa1e0bf04ac43
+      internalID: 994185507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_26
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 584
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d510d8709e39141a407adfad02568f
+      internalID: -798022271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 81
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078c2e9795d57b4894fdf09a076d83a
+      internalID: 2081864492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_28
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 81
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f016f96c7ba46704ca5d2f8f1f58bc1c
+      internalID: 1584141017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_29
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 81
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fb2ab687489d74b82c24d912e1f073
+      internalID: 1847957068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_30
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 81
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b047ad9d46039f479d10438908fea43
+      internalID: -1249844715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_31
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 81
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06860aecb08445459d586ca1abf73e7
+      internalID: 742939151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_32
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 81
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7290a2108e4848bfc682fa80b27c0
+      internalID: 552688480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_33
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 81
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f4f1e7f08a5141ada5366b292b788
+      internalID: 1025341507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_34
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 81
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506f08d94f063e84888bbd7bd5fe82b4
+      internalID: -1511193928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-walk_35
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 81
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2790e994917d0d4dac496a7137dc4ac
+      internalID: -931601978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gF-walk_0: 203533297
+      gF-walk_1: -1147775347
+      gF-walk_10: -26503610
+      gF-walk_11: -65904602
+      gF-walk_12: -244742436
+      gF-walk_13: -1507616544
+      gF-walk_14: 1532945321
+      gF-walk_15: -261808182
+      gF-walk_16: -286877863
+      gF-walk_17: -975315221
+      gF-walk_18: -145517821
+      gF-walk_19: 524238385
+      gF-walk_2: -1640349434
+      gF-walk_20: 1937393688
+      gF-walk_21: 1969729015
+      gF-walk_22: -145858719
+      gF-walk_23: 1327742600
+      gF-walk_24: 1960940977
+      gF-walk_25: 994185507
+      gF-walk_26: -798022271
+      gF-walk_27: 2081864492
+      gF-walk_28: 1584141017
+      gF-walk_29: 1847957068
+      gF-walk_3: 1616780715
+      gF-walk_30: -1249844715
+      gF-walk_31: 742939151
+      gF-walk_32: 552688480
+      gF-walk_33: 1025341507
+      gF-walk_34: -1511193928
+      gF-walk_35: -931601978
+      gF-walk_4: 259060231
+      gF-walk_5: -1293847434
+      gF-walk_6: -1042768563
+      gF-walk_7: -1862474255
+      gF-walk_8: 1421497516
+      gF-walk_9: 399684804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

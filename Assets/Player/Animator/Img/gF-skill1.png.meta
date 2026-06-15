@@ -1,0 +1,5517 @@
+fileFormatVersion: 2
+guid: 61b7b067ea3a5f347bfddabbdcbb0d88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gF-skill1_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1831
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e89c24d8c5d684d90d0b6e52561dec
+      internalID: 1572820281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_1
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1902
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fac9c71bdfb134b8ad14061b279c33
+      internalID: -890456322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_2
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1891
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262139271726f1c499bde4dc29c0a96d
+      internalID: -2104758388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_3
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1897
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38335546d30ac794f8e53c784e11592a
+      internalID: 1457951581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1897
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22017094f1c34124c86d14d8d835dfbb
+      internalID: -646093436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1891
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890320d21c2a654987a316bae382a86
+      internalID: 2132539924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_6
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1897
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f977a5db56982ef49895fa4d71101ec0
+      internalID: -349238756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_7
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1896
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafde251a7191d040998a612690b4aa0
+      internalID: 89085767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_8
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1891
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e721b2072f044b939a72b1b7e63a4
+      internalID: 978854377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1866
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f12bb434653e344b6a250b8a901a92
+      internalID: 911735238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1885
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f9a39123c0d1b479bed555f03c01b6
+      internalID: 1552938652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1838
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75144049bd2aaf449625dd2fdfa4287
+      internalID: -1025127996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1821
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663b2d8340ce9664781f93bdc51460c1
+      internalID: -16512067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_13
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1843
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be9a63c4410b1445bd5b92aea96632b
+      internalID: 1378320457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_14
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1885
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bac2ba475cf6049a5bf88fab3b7f7d
+      internalID: 446812681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_15
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1837
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78957d789e6547749b3fc5f8aee427e2
+      internalID: 1241161341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1879
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d08dd4f4bcbe044983a901d5ccb57c6
+      internalID: -349144186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_17
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1879
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6dc9a9285578a44ab26740d984a8de
+      internalID: 888026323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1590
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89814ee1809f2894f96ddab8702cdd3b
+      internalID: 26530340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1590
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e33984ba9b33a543991119471f3f680
+      internalID: -871238353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_20
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1873
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e532a78855efb409b962bea985ad35
+      internalID: -2093920203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_21
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1590
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c50db2d4dd3900438e599218550c4dc
+      internalID: 432916824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_22
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1590
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826c4288be6835488cba54616fe9dde
+      internalID: -101513432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_23
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1873
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16e22a300345d14796fb7913a74045e
+      internalID: -1038063412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1819
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e24b6bcf9ec68e4f8112bedee207934
+      internalID: -2002802910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_25
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1830
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd115a65ae57b34b925e9e25cd1747b
+      internalID: 1457864046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_26
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1722
+        width: 48
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a57f70af9151447b54b083b510aa2b
+      internalID: -390941520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_27
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1772
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c777cebfe3a06f4982d200aa605e301
+      internalID: 180076852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1795
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9011503c5d5054c903a7ada243ca41
+      internalID: 1972991856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_29
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1736
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb55a0a6c45f2b4e99d8b9e55adfdbd
+      internalID: 1895326435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_30
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1760
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f205ebddbe624abbdfcd529b2c620
+      internalID: 1775135975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_31
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1736
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d84efe9fb035864fb3b8f148ee9d234
+      internalID: 680230212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_32
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1692
+        width: 48
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cded9169053e854997748f0fda416ba
+      internalID: 1656534614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1789
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1fc6baa9f1d449ad84aadd3eca4dd
+      internalID: -1449594231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1783
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaceae0abe9631940a6e1bc49c40189e
+      internalID: 1079450840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1740
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceacd7b474ae36468efd1bf86790bef
+      internalID: -140104243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_36
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1771
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d439c6181d6b5468f7d4515f306651
+      internalID: 399315297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_37
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1765
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2928f325eafc8741b1fefe5b8f012ec
+      internalID: 1987677029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1746
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3933b0a386d21eb43a611261f33126f7
+      internalID: -323303857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_39
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1759
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bfffd29315c864ba83b8ec9dfa045f
+      internalID: 948233086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1692
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6a2d8e62e87da4bbfdce52b8332869
+      internalID: -739107477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_41
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1738
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5dd37f7826c8944b01f4d52205c050
+      internalID: 1847694125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_42
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1740
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a451c9786ae1b4587ce90c26f00248
+      internalID: -1698457723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1693
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af602d99ac6a3bc40b0da955e6a9bdf8
+      internalID: 2101710822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_44
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1734
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f657bf48f08c343b77089956664e89
+      internalID: 1450722219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_45
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e5cabb4091a1249bf9383aa3abd076
+      internalID: -1110921441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_46
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1636
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f0553b1d4807e498708bd5f77b97bf
+      internalID: 1728429556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_47
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1714
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae02405e5b278074280025a0e734d222
+      internalID: -1902777429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_48
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1728
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655e6519aff532744a2389728317e499
+      internalID: 972201992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_49
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1722
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387b8e7ef3f8a9345a24fe8a46b400c7
+      internalID: 1435250717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_50
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1668
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9dc2aed579c1147b7b191327a3be5b
+      internalID: -2037783275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_51
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1644
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96289700af4ef8641a481e9860f18f93
+      internalID: -320977572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_52
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1716
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ec63864d75234c9a22d570af686e5
+      internalID: -825771152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1644
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e4550fda2ef5949b36853134bc0fbc
+      internalID: -1397763099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_54
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1620
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc0c5c1b7de9e641b6be32759fc9b21
+      internalID: 166881662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_55
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1632
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90203364cc944724b931f6322a82ddaf
+      internalID: -1179530684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_56
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1596
+        width: 59
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4c964ac952864a854fe5bed393876
+      internalID: -1182242791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1578
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccfafed9ae499d4ea9d92c9e59a7a80
+      internalID: 481968519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_58
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1608
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce3b4ebffec894d8523aeb403b4105
+      internalID: 1029168058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1608
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e59b2fc8ee6d04bad0bd4f8d959ced
+      internalID: -926909210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_60
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1608
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f5050db7ae58b4c8a67402d888d596
+      internalID: 993565995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_61
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1578
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f057ab9ac61c7e4c86fce652ad7e4bd
+      internalID: 305330474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_62
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1578
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88751af40f30bee4b83a479211c5b2a9
+      internalID: -916455034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_63
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1578
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e715058b45d5e5d4493ddae1f4e8d16c
+      internalID: 1797575113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_64
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1602
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296409b8e428495449854de72f3379e2
+      internalID: -1461724238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_65
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1602
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a469421d6ec2d4ba565222d05c5a32
+      internalID: 100595933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_66
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1602
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb764ce743a25454ba2f1e58f6d91fc9
+      internalID: -1562866721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_67
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1596
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44d0c642dbeeff4f810e7d94df4d284
+      internalID: -2061474902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_68
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1596
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4d587324343c24ba9a6410a7ba0916
+      internalID: 270140779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_69
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1596
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96aabb1da9680248aec312b93a11cdc
+      internalID: 1388610200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_70
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1590
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b68dee36ae0a0459cea6fd4b41edce
+      internalID: 1620680653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_71
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1590
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beb4f30a517fb44e823b3e1dbbcaa8d
+      internalID: 402280891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_72
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1578
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d35146704bce45a034580829ef3fb
+      internalID: -1598186715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_73
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1578
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b251d7b1bc216c42b82c2c03261a189
+      internalID: 491709156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_74
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1578
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608ca5b5952ca154ebc009ec81082157
+      internalID: 2039815817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_75
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1590
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf2568f63efa0d4d987062d5588d8e7
+      internalID: 1298971382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_76
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1578
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb72f01d68cfe8429022829c4ae0db4
+      internalID: 1126169230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_77
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1584
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd68f973bac9134d9dc70374e29e1fb
+      internalID: -1120915099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_78
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1584
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9223ecebe1d045acd1032754bc1f7
+      internalID: 124377068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_79
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1578
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a50eb42ed0a414dad19483952d72fd
+      internalID: 2082798008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_80
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1584
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e676d3e4ac216840a22e5f335b40500
+      internalID: -956657238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_81
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1578
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ad68ee86a80254ea35d63df359a0c2
+      internalID: 1374816360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_82
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1578
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ab391e890f3341af16a592aac538f
+      internalID: 698226334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_83
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1578
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420913230b3c73748a0bb7ddbdbbc369
+      internalID: 375385431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_84
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1404
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3f2df86da509439a47085a891cb84
+      internalID: -2001817326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_85
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1280
+        width: 156
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ddc7ffff9ae3543afbd819bbb73305
+      internalID: -353095051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_86
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1404
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038930ace26c0543950902863b62cdd
+      internalID: -2073088325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_87
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1404
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4a33279982afc499926116ff6c1a82
+      internalID: -1251018431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1337
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f0ee8615c33e42ad0afeec6632117
+      internalID: -527040860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_89
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1323
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d0adc0e358304419f642dd44001044
+      internalID: -141320764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_90
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1339
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bb2121db38f4b4f92f543f2d8f5bf1
+      internalID: 470109797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_91
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1368
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9166d1b9f41ce164f9fc7f201f47d25f
+      internalID: 1866502024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_92
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1398
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36fd8e20a101ce40a2e593d4b1c39b4
+      internalID: -1480144587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_93
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1398
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da02bcbda919278458a5396383ed4ebe
+      internalID: -1218029518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_94
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1392
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5305a5a621f48ff468e455d9e58da3cf
+      internalID: 1217097747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_95
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1387
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278a575eb2ff88c4d8844d8c9a673880
+      internalID: -190271159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_96
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1368
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24095732233746d4f839923c3f049dd6
+      internalID: 1264578920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_97
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1346
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c0e7b7c07b174787584f275b096a2
+      internalID: -1238965540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_98
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1381
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c145d5ea98e2c614abbb87646a864fd2
+      internalID: 286857209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_99
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1375
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04e47fe376d94a4cacff2db5301a484
+      internalID: -1194182631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_100
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1222
+        width: 51
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf57e1f2f663a074eb01d59975e61156
+      internalID: -1041815679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1087
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc027ed246e6b7f4895c9cf8c614ecaa
+      internalID: 1459253291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_102
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1267
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327f4412714379543944a850af16959a
+      internalID: 28606941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_103
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1074
+        width: 198
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc1b305ffb2536488e324654c8ded7d
+      internalID: -558369495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_104
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1087
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227973ca8d4897348b161d0950d9fcf7
+      internalID: 1857801311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_105
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1200
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b00873aef94b1542bebab22e77efc43
+      internalID: 1328065655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_106
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1260
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb34b00a300f8b040aae95a9c7aec88c
+      internalID: -1109991168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_107
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1087
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fcf1a734be9814d9586312610843fa
+      internalID: 1444741352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_108
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1092
+        width: 131
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd02fe1cef51049852714b92198310
+      internalID: 757156578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_109
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1275
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b65c163f0c7c4c9963f48ffa20dde
+      internalID: 1882243696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_110
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1087
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651cc37e8ef6ee04b8cd219815036b95
+      internalID: 720276448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_111
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1245
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc79a07f807e4244bf386aebf95c57b
+      internalID: 2073533849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_112
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1074
+        width: 246
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d154096e7dc40648978a44dfe121e60
+      internalID: 1308912451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_113
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1254
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691fd22ed281b0e46aadac3f11632a85
+      internalID: 1691916780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_114
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1146
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4208243ebf1f00418a530d684e7eea1
+      internalID: 1441589213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_115
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1244
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac0cae5800f3647a367637e042d1b1
+      internalID: 86069611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1146
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0449d4c76fdd0bd499b1fbdd7dabfd70
+      internalID: 1138038572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_117
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1170
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe8f96af3b4bd4289cbf812619078e
+      internalID: -176726191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_118
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1194
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aba1337c1e85034188594b32b3d3191
+      internalID: -669733558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_119
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca5c70c2bef67f4d964d214d46fb892
+      internalID: 412144698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_120
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e0a1010a22e24ebfdcf1dda415767
+      internalID: 1678751537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_121
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1074
+        width: 168
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc08a0f95c60f45adef403f8cded30
+      internalID: 1077666594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_122
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1098
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d01850648d15a4db0755cef0932a18
+      internalID: -775467634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_123
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1098
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aa01ab813bf744fbc257901015a18b
+      internalID: -1589029029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_124
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1092
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2eafeea501c9944a2ccfb42323e9b4
+      internalID: -604343685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_125
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1086
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70361c835f6583d41a64182eac33fcb0
+      internalID: -990781247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_126
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1074
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f15cc5cef4afc3469cc329fae67d6b0
+      internalID: 1921784763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_127
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1086
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d94c15120ccf0b40963523db9269d91
+      internalID: -414082025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_128
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1080
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aebcdf30d181f04abb3a32acaba3c36
+      internalID: -1332299971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_129
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1080
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b809d47ec1ee046bfd14faf71e526a
+      internalID: -2053346037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_130
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1080
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26257abfe63d73a4bad3b332b1c251b5
+      internalID: -1358381320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_131
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1074
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243dc1db0515b9498af9c4e24c26a24
+      internalID: 240844978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_132
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 835
+        width: 120
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e872434d856404b93c705a71abedc0
+      internalID: -1525538018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_133
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 900
+        width: 54
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2ccd500c5c5874889f5ddf2ac9b731
+      internalID: 1326019218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_134
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 829
+        width: 150
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba42df9bed69f58498a247be1e40585b
+      internalID: -226401723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_135
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 792
+        width: 144
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4224d975ebda2740a91812acb5f3832
+      internalID: -1779766237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_136
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 769
+        width: 118
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c7f3fb4f1e104b98f8a54d35fd8c6
+      internalID: 2094800085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_137
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 895
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73618e95251e5b84e87e47a20619692f
+      internalID: 1293119023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_138
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 853
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07bc43fbc0fd774d8324b0dcae01c58
+      internalID: -304348172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_139
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 828
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdce7dc273fde546b28b4d7d7689950
+      internalID: 31030953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_140
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 865
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b434c9329439061449631ab20a8497b9
+      internalID: -2085460558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_141
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 883
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff5b47059b702b47b6b7e8ea8547e36
+      internalID: 335696498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_142
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 877
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3487b322706868148a166455d8d01c99
+      internalID: -615567707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_143
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 584
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1055c5e30b4fa438049dd1c0a60889
+      internalID: 2122529680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_144
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 584
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f36d78daebbbb4fa0cdf9ed68b4499
+      internalID: 1887586197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_145
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 584
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2623f56b125548c47b32a70063039c2f
+      internalID: -867012034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_146
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 871
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8997a373b1256a445aef22b041aeb4ad
+      internalID: 54687214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_147
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 584
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffed15b1606d834eb3731dff09a988b
+      internalID: 2039895885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_148
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 781
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10848c8e6a0a5af43920bdb138337c95
+      internalID: -587285105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_149
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 750
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5266dd5fc9e1b247808a6c97bb1dfac
+      internalID: -1584976494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_150
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 751
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2e58adf1c1f8458c1a350779a1881
+      internalID: 2121143093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_151
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 757
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8190411794a5fad4380543c073a2a72a
+      internalID: 78345105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_152
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 594
+        width: 124
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae816526bbf031741bdd88b8735764d1
+      internalID: -854607853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_153
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 765
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2e8c3df8221d4887932bee503a85d
+      internalID: 582968579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_154
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 775
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5a89b06e630f47ab5f5c16727968b
+      internalID: 169307981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_155
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 775
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c9d9e1e25a20a40b6e9b06ba003415
+      internalID: 1726451065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_156
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 769
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4ce3a75adca0245a850d6685e50176
+      internalID: -479755098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_157
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 769
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b1ab83f2fa1841a7fb24513e65d61
+      internalID: 402603558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_158
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 726
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6bf8d5724f5c44ae00c44b588f8e4
+      internalID: 1842696769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_159
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 763
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3841ddef2cc37bb4abdf590013962e90
+      internalID: -327163282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_160
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 720
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4992f201eede91343b937093e44bf858
+      internalID: 596801107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_161
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 757
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e1f1ed4e553e4b88e8794e43aecb5
+      internalID: 2117707134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_162
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 750
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb101cb40c6a39f4ab496d94eb9bfff9
+      internalID: 1899806864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_163
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 690
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e711757223f724b9fda084c89ec6eb
+      internalID: 333544156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_164
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 748
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9eb9233437c874aaf21a0e4502753d
+      internalID: 485258698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_165
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 744
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da310e3630c2304295e332def783e9b
+      internalID: -2020772758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_166
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 744
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d96df39ab3d0c4d9051fdb194bf04f
+      internalID: -1931937913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_167
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 684
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ad5977a75ce34b972c4fae9e12901
+      internalID: -737946300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_168
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 666
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d36dca93bc3c5f4ba1055bd70c921aa
+      internalID: -1175734352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_169
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 738
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834d9046d8552d84482e681979dcafd0
+      internalID: -555361722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_170
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 576
+        width: 198
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd97f034fa0527a4c9e96548a655e85d
+      internalID: -195323408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_171
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 690
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683293143b433fc44956f85aa2b2a8d3
+      internalID: 471062083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_172
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 706
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcd05d6f11da30479e625d9d3e5c5ee
+      internalID: -572503312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_173
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 642
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f90e0123d3786c4da7c5573e5fc83bb
+      internalID: 1111591529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_174
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 576
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c2822c1b0a0354e882de651168b5cf
+      internalID: 1313244147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_175
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 618
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8261f0b6da05b74abe04b9a10c0b800
+      internalID: -1264277196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_176
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 576
+        width: 108
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02507a6bf8cb74f44ad76a05548cbbf9
+      internalID: 221224286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_177
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 606
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d56f6d713b2c84e9513078f8da2b6b
+      internalID: 1392713583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_178
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 576
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76061034bd27514dad0101852782e34
+      internalID: 1520571249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_179
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 606
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b61cd5f3c9e449a47cb17bacc29c9
+      internalID: -1839017850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_180
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 606
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cce931fb12f7b943a28f6f633aef4ac
+      internalID: 976504642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_181
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 600
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528be6dd949892a498bd91241e1686d3
+      internalID: -45387540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_182
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 600
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daaa96786173c3428404a682182e6c9
+      internalID: 1981683102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_183
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 600
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cda98039f0c2764e88b6e17429b8265
+      internalID: 1233509477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_184
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 594
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b533f6087efc91b478bb7a3f50c3855b
+      internalID: 35506198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_185
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 576
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a3202baafa75948a010c01702fb731
+      internalID: -740972981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_186
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 594
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409ba27d1885e6246a0967b786495c49
+      internalID: -327793981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_187
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 588
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3bdf25146ca324d9de2eaa5931289c
+      internalID: 1990197355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_188
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 588
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f498d4be681c0124c8a910bf697cdc7a
+      internalID: -530590209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_189
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 582
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5a0942367fef42999e0e725436678
+      internalID: -703591086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_190
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 582
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d227b3e076c33b4482a09448c6cb16e
+      internalID: 26259421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_191
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 582
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941078e890505a847a032e2e36738476
+      internalID: 1677455948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_192
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 402
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ef013e018b5f4892fe0f1c48e681f
+      internalID: -1594586557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_193
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 402
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8202c7862d5dc445a7350118922ca68
+      internalID: -1261013972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_194
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 366
+        width: 120
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbfb69eb2201e349bd138641b3a4954
+      internalID: -1033011848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_195
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 367
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaaa46051ed3f940b460d8d0740aef5
+      internalID: -772802534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_196
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 334
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2df3f96b722fd408ea9ed1d5bb05f8
+      internalID: 398419006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_197
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 391
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b21315db56ab1442afbba7412c6e6f0
+      internalID: 1367101330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_198
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 240
+        width: 123
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b0e17e7346264a913a715fe87cbbe
+      internalID: -1498477620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_199
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 385
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4216d5946ef648b878330a34f46ad
+      internalID: -1583641357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_200
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 385
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bcafadf632058428f09911f70dc2d7
+      internalID: -1075951777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_201
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 379
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a797d6cd923004439cb851891339896
+      internalID: 562438225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_202
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 379
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570197e606122e747b5970934702dabd
+      internalID: 1247971734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_203
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 81
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788b4924cf6f8b04089d0dcebd153f83
+      internalID: 2041318244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_204
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 81
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f418d52edf7651642bfa5475a9c8c033
+      internalID: -1288181666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_205
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 373
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4962745938db67f439440416d56ffdde
+      internalID: -1707346443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_206
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 81
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b41ce135a71904285deed3c97f5222
+      internalID: 2141421874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_207
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 373
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f7d30397878ef4c80472d4018c858b
+      internalID: -889275024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_208
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 260
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a508c6e8d078b4f822b8b8ef1cbad4
+      internalID: -1946267590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_209
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 333
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b4e5246ec56354091a3ff0d332f6c2
+      internalID: -1871438372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_210
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 289
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17340bcd79c1ba849b25cd8137349f89
+      internalID: 1672350636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_211
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 234
+        width: 36
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e0fed8d8f3454a8a14f359fa73862
+      internalID: -1157087610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_212
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 238
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28db7051dc4192d42b21e2b6b9f46fda
+      internalID: 2102257566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_213
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 283
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9581d39d8241964b95bbd966f92f9bb
+      internalID: 1972201231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_214
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 259
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974d478e5fe2c2b4c9dd250327cac29d
+      internalID: 1645830510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_215
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 271
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b82b95b415324498503f6f62e05f17
+      internalID: -136750811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_216
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 265
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c26f8fb36b04f479ada7242c5b0a79
+      internalID: -1965330638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_217
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 259
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458792bcbb4a95243aae68a923b2832d
+      internalID: 227232418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_218
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 246
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77b17676cee6748ae21b1d6920567d
+      internalID: -1167668678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_219
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 253
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad3640d602424342b8fbe1793096bd7
+      internalID: 1942382402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_220
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 120
+        width: 72
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc6872b0e800174b95b15d264178f53
+      internalID: 425552349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_221
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 144
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da4ee4bdb686354186b3307f8e5cf01
+      internalID: 1637685334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_222
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 216
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbda75ded5d9af409089ec58799f4f4
+      internalID: -2129731464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_223
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 216
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab5029493f9444eade6bf283b67042
+      internalID: 971512480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_224
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 228
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e7c75eea78b2d45add0739b791efb9
+      internalID: 1213570123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_225
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 222
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d2a43ed994e7b458cc34a1ce454688
+      internalID: -1395865274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_226
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 162
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bf2e32312ad12499feac78c3b381fc
+      internalID: 1330547400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_227
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 216
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e4b900351dee44891a30bc98ddf64
+      internalID: -95568862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_228
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 174
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664759147c25684c85b8f58251a6e26
+      internalID: 1418176046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_229
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 168
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe5e8cde45cfee49b3a49557cd1a144
+      internalID: -1885647053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_230
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 204
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc1556ebd9c56a4291c2718538b2b2f
+      internalID: -1011710846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_231
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 193
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eabc3a9c8647b3459860aae0ef542d4
+      internalID: -1398579022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_232
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c211e30320a655940bc6df47890b6f07
+      internalID: 1184071430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_233
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 180
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f08928098bcc5843a37246b63c95243
+      internalID: -950491241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_234
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 78
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0ce91f2ed69548b847d608838b7bf
+      internalID: 1877596869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_235
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 78
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eb6713fa79e574da762877d02e19be
+      internalID: 1357564603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_236
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 108
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b593eeeb2265c3148bd1385ce72e2c78
+      internalID: 1862038611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_237
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 78
+        width: 112
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d453127cc6974545aab66f75fdfed44
+      internalID: -1727845348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_238
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 78
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc84e180c7665134eb9764618212959b
+      internalID: 1536408395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_239
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 78
+        width: 115
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e2e8ad57d031741a63d0f48f63a277
+      internalID: 1411542827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_240
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3714bcbc2680d3746a70c2cbabd34de4
+      internalID: -695484015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_241
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 96
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6825068832984eb0370907f956514
+      internalID: -1499759189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_242
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 90
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4083ec88388934999bdb2e4e4f1bd8
+      internalID: 1265335715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_243
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 84
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db45346adccc5c640ba4c428a4a62f4a
+      internalID: 475025582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gF-skill1_244
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 78
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420fedfe88c9dc5429f05d1627880efa
+      internalID: -1219579308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gF-skill1_0: 1572820281
+      gF-skill1_1: -890456322
+      gF-skill1_10: 1552938652
+      gF-skill1_100: -1041815679
+      gF-skill1_101: 1459253291
+      gF-skill1_102: 28606941
+      gF-skill1_103: -558369495
+      gF-skill1_104: 1857801311
+      gF-skill1_105: 1328065655
+      gF-skill1_106: -1109991168
+      gF-skill1_107: 1444741352
+      gF-skill1_108: 757156578
+      gF-skill1_109: 1882243696
+      gF-skill1_11: -1025127996
+      gF-skill1_110: 720276448
+      gF-skill1_111: 2073533849
+      gF-skill1_112: 1308912451
+      gF-skill1_113: 1691916780
+      gF-skill1_114: 1441589213
+      gF-skill1_115: 86069611
+      gF-skill1_116: 1138038572
+      gF-skill1_117: -176726191
+      gF-skill1_118: -669733558
+      gF-skill1_119: 412144698
+      gF-skill1_12: -16512067
+      gF-skill1_120: 1678751537
+      gF-skill1_121: 1077666594
+      gF-skill1_122: -775467634
+      gF-skill1_123: -1589029029
+      gF-skill1_124: -604343685
+      gF-skill1_125: -990781247
+      gF-skill1_126: 1921784763
+      gF-skill1_127: -414082025
+      gF-skill1_128: -1332299971
+      gF-skill1_129: -2053346037
+      gF-skill1_13: 1378320457
+      gF-skill1_130: -1358381320
+      gF-skill1_131: 240844978
+      gF-skill1_132: -1525538018
+      gF-skill1_133: 1326019218
+      gF-skill1_134: -226401723
+      gF-skill1_135: -1779766237
+      gF-skill1_136: 2094800085
+      gF-skill1_137: 1293119023
+      gF-skill1_138: -304348172
+      gF-skill1_139: 31030953
+      gF-skill1_14: 446812681
+      gF-skill1_140: -2085460558
+      gF-skill1_141: 335696498
+      gF-skill1_142: -615567707
+      gF-skill1_143: 2122529680
+      gF-skill1_144: 1887586197
+      gF-skill1_145: -867012034
+      gF-skill1_146: 54687214
+      gF-skill1_147: 2039895885
+      gF-skill1_148: -587285105
+      gF-skill1_149: -1584976494
+      gF-skill1_15: 1241161341
+      gF-skill1_150: 2121143093
+      gF-skill1_151: 78345105
+      gF-skill1_152: -854607853
+      gF-skill1_153: 582968579
+      gF-skill1_154: 169307981
+      gF-skill1_155: 1726451065
+      gF-skill1_156: -479755098
+      gF-skill1_157: 402603558
+      gF-skill1_158: 1842696769
+      gF-skill1_159: -327163282
+      gF-skill1_16: -349144186
+      gF-skill1_160: 596801107
+      gF-skill1_161: 2117707134
+      gF-skill1_162: 1899806864
+      gF-skill1_163: 333544156
+      gF-skill1_164: 485258698
+      gF-skill1_165: -2020772758
+      gF-skill1_166: -1931937913
+      gF-skill1_167: -737946300
+      gF-skill1_168: -1175734352
+      gF-skill1_169: -555361722
+      gF-skill1_17: 888026323
+      gF-skill1_170: -195323408
+      gF-skill1_171: 471062083
+      gF-skill1_172: -572503312
+      gF-skill1_173: 1111591529
+      gF-skill1_174: 1313244147
+      gF-skill1_175: -1264277196
+      gF-skill1_176: 221224286
+      gF-skill1_177: 1392713583
+      gF-skill1_178: 1520571249
+      gF-skill1_179: -1839017850
+      gF-skill1_18: 26530340
+      gF-skill1_180: 976504642
+      gF-skill1_181: -45387540
+      gF-skill1_182: 1981683102
+      gF-skill1_183: 1233509477
+      gF-skill1_184: 35506198
+      gF-skill1_185: -740972981
+      gF-skill1_186: -327793981
+      gF-skill1_187: 1990197355
+      gF-skill1_188: -530590209
+      gF-skill1_189: -703591086
+      gF-skill1_19: -871238353
+      gF-skill1_190: 26259421
+      gF-skill1_191: 1677455948
+      gF-skill1_192: -1594586557
+      gF-skill1_193: -1261013972
+      gF-skill1_194: -1033011848
+      gF-skill1_195: -772802534
+      gF-skill1_196: 398419006
+      gF-skill1_197: 1367101330
+      gF-skill1_198: -1498477620
+      gF-skill1_199: -1583641357
+      gF-skill1_2: -2104758388
+      gF-skill1_20: -2093920203
+      gF-skill1_200: -1075951777
+      gF-skill1_201: 562438225
+      gF-skill1_202: 1247971734
+      gF-skill1_203: 2041318244
+      gF-skill1_204: -1288181666
+      gF-skill1_205: -1707346443
+      gF-skill1_206: 2141421874
+      gF-skill1_207: -889275024
+      gF-skill1_208: -1946267590
+      gF-skill1_209: -1871438372
+      gF-skill1_21: 432916824
+      gF-skill1_210: 1672350636
+      gF-skill1_211: -1157087610
+      gF-skill1_212: 2102257566
+      gF-skill1_213: 1972201231
+      gF-skill1_214: 1645830510
+      gF-skill1_215: -136750811
+      gF-skill1_216: -1965330638
+      gF-skill1_217: 227232418
+      gF-skill1_218: -1167668678
+      gF-skill1_219: 1942382402
+      gF-skill1_22: -101513432
+      gF-skill1_220: 425552349
+      gF-skill1_221: 1637685334
+      gF-skill1_222: -2129731464
+      gF-skill1_223: 971512480
+      gF-skill1_224: 1213570123
+      gF-skill1_225: -1395865274
+      gF-skill1_226: 1330547400
+      gF-skill1_227: -95568862
+      gF-skill1_228: 1418176046
+      gF-skill1_229: -1885647053
+      gF-skill1_23: -1038063412
+      gF-skill1_230: -1011710846
+      gF-skill1_231: -1398579022
+      gF-skill1_232: 1184071430
+      gF-skill1_233: -950491241
+      gF-skill1_234: 1877596869
+      gF-skill1_235: 1357564603
+      gF-skill1_236: 1862038611
+      gF-skill1_237: -1727845348
+      gF-skill1_238: 1536408395
+      gF-skill1_239: 1411542827
+      gF-skill1_24: -2002802910
+      gF-skill1_240: -695484015
+      gF-skill1_241: -1499759189
+      gF-skill1_242: 1265335715
+      gF-skill1_243: 475025582
+      gF-skill1_244: -1219579308
+      gF-skill1_25: 1457864046
+      gF-skill1_26: -390941520
+      gF-skill1_27: 180076852
+      gF-skill1_28: 1972991856
+      gF-skill1_29: 1895326435
+      gF-skill1_3: 1457951581
+      gF-skill1_30: 1775135975
+      gF-skill1_31: 680230212
+      gF-skill1_32: 1656534614
+      gF-skill1_33: -1449594231
+      gF-skill1_34: 1079450840
+      gF-skill1_35: -140104243
+      gF-skill1_36: 399315297
+      gF-skill1_37: 1987677029
+      gF-skill1_38: -323303857
+      gF-skill1_39: 948233086
+      gF-skill1_4: -646093436
+      gF-skill1_40: -739107477
+      gF-skill1_41: 1847694125
+      gF-skill1_42: -1698457723
+      gF-skill1_43: 2101710822
+      gF-skill1_44: 1450722219
+      gF-skill1_45: -1110921441
+      gF-skill1_46: 1728429556
+      gF-skill1_47: -1902777429
+      gF-skill1_48: 972201992
+      gF-skill1_49: 1435250717
+      gF-skill1_5: 2132539924
+      gF-skill1_50: -2037783275
+      gF-skill1_51: -320977572
+      gF-skill1_52: -825771152
+      gF-skill1_53: -1397763099
+      gF-skill1_54: 166881662
+      gF-skill1_55: -1179530684
+      gF-skill1_56: -1182242791
+      gF-skill1_57: 481968519
+      gF-skill1_58: 1029168058
+      gF-skill1_59: -926909210
+      gF-skill1_6: -349238756
+      gF-skill1_60: 993565995
+      gF-skill1_61: 305330474
+      gF-skill1_62: -916455034
+      gF-skill1_63: 1797575113
+      gF-skill1_64: -1461724238
+      gF-skill1_65: 100595933
+      gF-skill1_66: -1562866721
+      gF-skill1_67: -2061474902
+      gF-skill1_68: 270140779
+      gF-skill1_69: 1388610200
+      gF-skill1_7: 89085767
+      gF-skill1_70: 1620680653
+      gF-skill1_71: 402280891
+      gF-skill1_72: -1598186715
+      gF-skill1_73: 491709156
+      gF-skill1_74: 2039815817
+      gF-skill1_75: 1298971382
+      gF-skill1_76: 1126169230
+      gF-skill1_77: -1120915099
+      gF-skill1_78: 124377068
+      gF-skill1_79: 2082798008
+      gF-skill1_8: 978854377
+      gF-skill1_80: -956657238
+      gF-skill1_81: 1374816360
+      gF-skill1_82: 698226334
+      gF-skill1_83: 375385431
+      gF-skill1_84: -2001817326
+      gF-skill1_85: -353095051
+      gF-skill1_86: -2073088325
+      gF-skill1_87: -1251018431
+      gF-skill1_88: -527040860
+      gF-skill1_89: -141320764
+      gF-skill1_9: 911735238
+      gF-skill1_90: 470109797
+      gF-skill1_91: 1866502024
+      gF-skill1_92: -1480144587
+      gF-skill1_93: -1218029518
+      gF-skill1_94: 1217097747
+      gF-skill1_95: -190271159
+      gF-skill1_96: 1264578920
+      gF-skill1_97: -1238965540
+      gF-skill1_98: 286857209
+      gF-skill1_99: -1194182631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
